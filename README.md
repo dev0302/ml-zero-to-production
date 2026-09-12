@@ -1,10 +1,22 @@
 # Machine Learning Journey
 
-A structured repository documenting my journey into Machine Learning - from Python and numerical computing to data manipulation, analysis, visualization, and eventually machine learning models.
+A structured repository documenting my journey into Machine Learning — from Python and numerical computing to data manipulation, analysis, visualization, and eventually machine learning models.
 
-This repository is built as a long-term learning record rather than a collection of isolated code snippets. Each section contains practical notebooks, examples, experiments, and notes developed while progressing through the Machine Learning roadmap.
+This repository is built as a long-term learning record rather than a collection of isolated code snippets. Each section contains practical notebooks, examples, experiments, datasets, and notes developed while progressing through the Machine Learning roadmap.
 
 The goal is to understand not only how to use ML libraries, but also the concepts and workflows behind them.
+
+---
+
+## Personal Notes
+
+Alongside the code and Jupyter notebooks in this repository, I maintain a separate collection of detailed personal notes covering the concepts I learn throughout the journey.
+
+The notes provide additional explanations, observations, references, and learning material that complement the practical work in this repository.
+
+**Machine Learning Notes:** [Machine Learning (ML)](https://shocking-pike-752.notion.site/Machine-Learning-ML-3cf709f7a9de80fe98f6c71fbad8cf95)
+
+The GitHub repository focuses primarily on **implementation and practice**, while the Notion workspace serves as my **personal knowledge base and written notes**.
 
 ---
 
@@ -289,11 +301,11 @@ Only the completed portions of the roadmap will be added to the repository as th
 
 This repository serves three purposes:
 
-1. **Learning** - building a strong conceptual foundation in Machine Learning.
+1. **Learning** — building a strong conceptual foundation in Machine Learning.
 
-2. **Documentation** - maintaining a structured record of concepts, experiments, and progress.
+2. **Documentation** — maintaining a structured record of concepts, experiments, and progress.
 
-3. **Reference** - creating a personal knowledge base that can be revisited during projects, interviews, and future learning.
+3. **Reference** — creating a personal knowledge base that can be revisited during projects, interviews, and future learning.
 
 The repository is not intended to represent a finished Machine Learning curriculum. It is an evolving record of the learning process.
 
