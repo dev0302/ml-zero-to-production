@@ -1,6 +1,6 @@
 # Machine Learning Journey
 
-A structured repository documenting my journey into Machine Learning — from Python and numerical computing to data manipulation, analysis, visualization, and eventually machine learning models.
+A structured repository documenting my journey into Machine Learning - from Python and numerical computing to data manipulation, analysis, visualization, and eventually machine learning models.
 
 This repository is built as a long-term learning record rather than a collection of isolated code snippets. Each section contains practical notebooks, examples, experiments, and notes developed while progressing through the Machine Learning roadmap.
 
@@ -289,11 +289,11 @@ Only the completed portions of the roadmap will be added to the repository as th
 
 This repository serves three purposes:
 
-1. **Learning** — building a strong conceptual foundation in Machine Learning.
+1. **Learning** - building a strong conceptual foundation in Machine Learning.
 
-2. **Documentation** — maintaining a structured record of concepts, experiments, and progress.
+2. **Documentation** - maintaining a structured record of concepts, experiments, and progress.
 
-3. **Reference** — creating a personal knowledge base that can be revisited during projects, interviews, and future learning.
+3. **Reference** - creating a personal knowledge base that can be revisited during projects, interviews, and future learning.
 
 The repository is not intended to represent a finished Machine Learning curriculum. It is an evolving record of the learning process.
 
